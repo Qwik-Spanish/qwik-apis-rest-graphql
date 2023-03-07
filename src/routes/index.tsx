@@ -29,11 +29,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: 'Welcome to Qwik',
+  title: 'API REST / GraphQL Consume',
   meta: [
     {
       name: 'description',
-      content: 'Qwik site description',
+      content: 'Ejemplo para consumir APIs REST y GraphQL',
     },
   ],
 };
