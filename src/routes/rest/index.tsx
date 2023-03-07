@@ -28,7 +28,7 @@ export default component$(() => {
         <input
           type='number'
           min='1950'
-          max='2022'
+          max={new Date().getFullYear()}
           value={races.year}
           onInput$={(ev) =>
             (races.year = (ev.target as HTMLInputElement).value)
