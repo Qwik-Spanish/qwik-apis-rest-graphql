@@ -18,6 +18,11 @@ export default component$(() => {
           </a>
         </li>
         <li>
+          <a href="https://github.com/mugan86" target="_blank">
+            Github
+          </a>
+        </li>
+        <li>
           <a href="https://youtube.com/mugan86" target="_blank">
             Youtube
           </a>
